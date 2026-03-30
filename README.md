@@ -93,7 +93,12 @@ UI isn't a wrapper around logic — it's part of the experience itself.
 🔗 [Live Demo](https://simple-calculator-month--serverpak708.replit.app/)
 
 ---
+## 🚀 Currently Working On
 
+- 🔐 Exploring cybersecurity fundamentals & ethical hacking
+- 🐍 Deepening Python skills through automation projects
+- 🌐 Improving JAI with new features
+- 📚 Grade 11 CS — graduating 2027
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-ar1794997@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ar1794997@gmail.com)
