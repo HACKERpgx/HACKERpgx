@@ -94,13 +94,6 @@ UI isn't a wrapper around logic — it's part of the experience itself.
 
 ---
 
-## 📊 GitHub Stats
-
-![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HACKERpgx&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HACKERpgx&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-ar1794997@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ar1794997@gmail.com)
