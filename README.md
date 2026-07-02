@@ -5,14 +5,17 @@ Ajman, UAE • +971 545 428639 • ar1794997@gmail.com • github.com/HACKERpgx
 ## PROFILE
 Motivated Grade 11 Computer Science student (awaiting board results) with a solid base in Python, software development, and cybersecurity. I build practical projects — AI tools, automation scripts, and version‑controlled applications — while continuously expanding my technical skills. Seeking internship or trainee roles to gain real‑world experience and contribute with discipline, curiosity, and consistency.
 
-## 🛠️ Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+## Core Skills
+1. Programming & Development
+2. Python — logic building, scripting, automation
+3. API Integration — basic usage and connectivity
+4. Problem‑Solving & algorithms
+5. GitHub — version control, branching, repositories
+6. Visual Studio Code
+7. CS Foundations
+8. Cybersecurity Principles — foundational security awareness
+9. Computer Systems fundamentals
+10. Environment Variables — secure usage
 
 ---
 
