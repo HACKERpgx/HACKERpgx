@@ -1,12 +1,9 @@
-# Hey, I'm Abdul Rehman 👋
+## Abdul Rehman
+Aspiring Cybersecurity Engineer  
+Ajman, UAE • +971 545 428639 • ar1794997@gmail.com • github.com/HACKERpgx 
 
-**Aspiring Software & Cybersecurity Engineer | Grade 11 CS Student | Ajman, UAE**
-
-I build real things — AI tools, 3D browser experiences, and automation systems —
-while studying Computer Science and working toward a career in cybersecurity
-and software engineering.
-
----
+## PROFILE
+Motivated Grade 11 Computer Science student (awaiting board results) with a solid base in Python, software development, and cybersecurity. I build practical projects — AI tools, automation scripts, and version‑controlled applications — while continuously expanding my technical skills. Seeking internship or trainee roles to gain real‑world experience and contribute with discipline, curiosity, and consistency.
 
 ## 🛠️ Skills
 
