@@ -3,7 +3,7 @@ Aspiring Cybersecurity Engineer
 Ajman, UAE • +971 545 428639 • ar1794997@gmail.com • github.com/HACKERpgx 
 
 ## PROFILE
-Motivated Grade 11 Computer Science student (awaiting board results) with a solid base in Python, software development, and cybersecurity. I build practical projects — AI tools, automation scripts, and version‑controlled applications — while continuously expanding my technical skills. Seeking internship or trainee roles to gain real‑world experience and contribute with discipline, curiosity, and consistency.
+Disciplined Grade 12 student with a solid base in python, software development, and cyber security. I build practical projects — AI tools, automation scripts, and interactive web experiences.
 
 ## Core Skills
 1. Programming & Development
@@ -98,7 +98,7 @@ UI isn't a wrapper around logic — it's part of the experience itself.
 - 🔐 Exploring cybersecurity fundamentals & ethical hacking
 - 🐍 Deepening Python skills through automation projects
 - 🌐 Improving JAI with new features
-- 📚 Grade 11 CS — graduating 2027
+- 📚 Grade 12 CS — graduating 2027
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-ar1794997@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ar1794997@gmail.com)
@@ -106,4 +106,4 @@ UI isn't a wrapper around logic — it's part of the experience itself.
 
 ---
 
-*Grade 11 · Computer Science · Ajman, UAE · Open to internships & trainee roles*
+*Grade 12 · Computer Science · Ajman, UAE · Open to internships & trainee roles*
