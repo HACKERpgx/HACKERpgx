@@ -70,29 +70,6 @@ built without a backend or native app.
 🔗 [Live Demo](https://hackerpgx.github.io/HoloMotion/)
 
 ---
-
-### 🖥️ Animated Logic Interface — Calculator, Clock & Calendar
-**Stack:** HTML, CSS, JavaScript, Replit
-
-**What I built:**
-A unified animated browser interface combining three tools —
-a calculator, a real-time clock, and a calendar — with smooth
-transitions that make logic feel intuitive, not just functional.
-
-**How I built it:**
-- Designed layout and component hierarchy before writing any code
-- Built animations as functional signals, not decoration
-(transitions show state changes, not just look nice)
-- Wrote clean, testable logic for each component
-- Deployed live via Replit — had to work in production, not just locally
-
-**Results:**
-Live and interactive. More importantly, it changed how I think:
-UI isn't a wrapper around logic — it's part of the experience itself.
-
-🔗 [Live Demo](https://simple-calculator-month--serverpak708.replit.app/)
-
----
 ## 🚀 Currently Working On
 
 - 🔐 Exploring cybersecurity fundamentals & ethical hacking
@@ -103,6 +80,9 @@ UI isn't a wrapper around logic — it's part of the experience itself.
 
 [![Email](https://img.shields.io/badge/Email-ar1794997@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ar1794997@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-a__rehman0855b-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/a_rehman0855b)
+<a href="https://www.linkedin.com/in/abdul-rehman-naeem-730124392/">
+  <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Rehman%20Naeem-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ---
 
