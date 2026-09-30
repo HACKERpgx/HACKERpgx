@@ -1,9 +1,9 @@
-## Abdul Rehman
-Aspiring Cybersecurity Engineer  
-Ajman, UAE • +971 545 428639 • ar1794997@gmail.com • github.com/HACKERpgx 
+## Abdul Rehman Naeem
+Exploring Cybercrime Investigation  
+Ajman, UAE • +971 545 428639 • ar1794997@gmail.com • github.com/HACKERpgx • www.linkedin.com/in/abdul-rehman-ssite
 
 ## PROFILE
-Disciplined Grade 12 student with a solid base in python, software development, and cyber security. I build practical projects — AI tools, automation scripts, and interactive web experiences.
+Disciplined Grade 12 student with a solid base in python, software development, and cyber security. I build practical projects — AI tools, automation scripts, and interactive web experiences. Open to internships and trainee roles.
 
 ## Core Skills
 1. Programming & Development
@@ -11,7 +11,7 @@ Disciplined Grade 12 student with a solid base in python, software development, 
 3. API Integration — basic usage and connectivity
 4. Problem‑Solving & algorithms
 5. GitHub — version control, branching, repositories
-6. Visual Studio Code
+6. Evidence Handling
 7. CS Foundations
 8. Cybersecurity Principles — foundational security awareness
 9. Computer Systems fundamentals
@@ -76,14 +76,10 @@ built without a backend or native app.
 - 🐍 Deepening Python skills through automation projects
 - 🌐 Improving JAI with new features
 - 📚 Grade 12 CS — graduating 2027
-## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-ar1794997@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ar1794997@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-a__rehman0855b-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/a_rehman0855b)
-<a href="https://www.linkedin.com/in/abdul-rehman-naeem-730124392/">
-  <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Rehman%20Naeem-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+## CERTIFICATIONS
 
+- Python (Basic) - HackerRank
+- One Million Prompters - Certificate of Completion
 ---
 
-*Grade 12 · Computer Science · Ajman, UAE · Open to internships & trainee roles*
